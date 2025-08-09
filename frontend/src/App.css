@@ -36,7 +36,7 @@ body.dark {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 999;
+  z-index: 3500;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
